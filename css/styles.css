@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #e0f7fa;
+}    
+
+.header h1 {
+    color: #333333;
+}
+
+form {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-label {
+    color: black;
+    font-weight: bold;
+}
+
+footer {
+    color: #777777;
+}
